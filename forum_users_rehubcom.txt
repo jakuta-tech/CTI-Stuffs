@@ -1,6 +1,7 @@
 010111010
 03odchi_xep0
 0peratorSvierg3
+0siris
 0th3r
 0x0000N
 0x00day
@@ -165,6 +166,7 @@ BeeBot
 BeetleJuice
 BeiDou
 Bellaciao
+BenDrowned
 BenzoLocker
 Berbera
 Beretta
@@ -276,6 +278,7 @@ Diki
 DirectX
 Djon_Doe
 Djoni
+Doberty
 Doc300
 Dodo
 Dodowise
@@ -541,6 +544,7 @@ LaLaLands
 LaMelo
 Labdoddle
 LadaVanTesla
+Lalo
 LappaHappa
 Laremas
 Lary
@@ -872,10 +876,12 @@ SlowLife
 Slp26
 Slywnr
 Smile
+Smola
 Snake888
 Snape
 Snoppygx
 Snow
+Sodaluv999
 SoftButFirm
 Solitaire
 Someb0dy
@@ -988,6 +994,7 @@ WaKze
 Waffles
 Wagner
 Waleron
+WallStreetEx
 Webloy
 Weer213c
 Wera
@@ -1028,6 +1035,7 @@ Zenlux
 Zer0Day
 Zero0
 ZeroMalard
+ZeroOffset
 ZeroZ
 Zeta
 Zevs
@@ -1174,6 +1182,7 @@ biohazard
 bitcleaner
 bitesize
 biven
+bivon
 blVnc
 blackCodes
 blackcat
@@ -1485,6 +1494,7 @@ glewnn23
 glst0rm
 gman
 gnidno_228
+gnomikgnomik
 godgod
 godofdata
 goldenmask
@@ -1625,6 +1635,7 @@ jolyseiko
 jrintel
 jumper
 junkum
+just_user
 jzwingelbe
 k4vk4z
 kabanych54
@@ -1690,6 +1701,7 @@ krokodil
 krousse5
 kudrowl
 kukuruza
+kumec
 kuokkale
 kuqokold
 kurkulive
@@ -1806,6 +1818,7 @@ midlik214
 mike
 mikelimo
 milkshake3
+milkywaylion
 mimiya
 mirakl
 miraneon
@@ -1892,6 +1905,7 @@ nikolaydolgashov11
 nikotina
 nin0xx
 ninjutso
+nitro222
 nocten2
 nogoodnewstoday
 noizyship
@@ -1960,6 +1974,7 @@ partizanen
 pashanagan150
 patogen
 patrickthestar
+pauliner
 pelki88
 peopleware
 pepel
@@ -2020,6 +2035,7 @@ qyzet
 r053r007
 r0b1nhud
 r3b1nd
+r3da4vth
 r4gd011
 r8r8
 rRar
@@ -2057,6 +2073,7 @@ renquix
 reper007
 repetitor
 reppka
+rerelilya
 retretr
 retrff
 rex571
@@ -2320,6 +2337,7 @@ vadimov8888
 vaflior
 valbundy
 valgroupsupport
+valkyri3
 vanev18360
 vasilisaprem
 vayin
